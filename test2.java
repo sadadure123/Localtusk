@@ -7,5 +7,6 @@ static public void main(String[] _A_V) {
 			$ += _A_V[x];
 			
 		System.out.println( $ );
+	//New code added in editor
 	}
 }
