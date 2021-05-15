@@ -6,5 +6,6 @@ public static void main (String args[]) {
 	System.out.println("Hello world Test");
 	System.out.println("Hello world New Test");
 	System.out.println("Hello world New Test1");
+	System.out.println("Hello world New Test2");
 }
 }
